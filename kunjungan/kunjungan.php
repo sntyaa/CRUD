@@ -9,7 +9,7 @@
         <nav class="navbar navbar-expabd-lg navbar-light bg-light">
             <div class="container-fluid">
                 <a href="../pasien/pasien.php" class="navbar-brand">My App</a>
-                <a href="../kunjungan/kunjungan.php" class="navbar-brand">Dokter</a>
+                <a href="../dokter/dokter.php" class="navbar-brand">Dokter</a>
                 <a href="../kunjungan/kunjungan.php" class="navbar-brand">Data Kunjungan</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedtedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
