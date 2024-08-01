@@ -64,5 +64,9 @@
     </div>
 </div>
             </div>
+
+            <div>
+            <a href="editedgabriel.php" class="btn btn-primary btn-sm d-flex justify-content-center">Tambah Data</a>
+            </div>
             </body>
             </html>
